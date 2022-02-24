@@ -1,6 +1,6 @@
 ---
 title: "Learn -> Work -> Retirement"
-date: 2021-07-14
+date: 2022-02-23
 tags:
 - human-potential 
 ---
