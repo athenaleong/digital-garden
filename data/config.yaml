@@ -1,13 +1,12 @@
-name: Jacky Zhao
+name: Athena Leong
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  A place where my thoughts live. Will they thrive or die? 
 page_title:
-  "🪴 Quartz 3.1"
+  "Athena's Garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/thenabanana
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/athenaleong

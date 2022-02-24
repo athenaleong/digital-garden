@@ -24,8 +24,8 @@
       </ul>
       {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
       <aside class="mainTOC">
-          <h3>Table of Contents</h3>
-          {{ .TableOfContents }}
+          <!-- <h3>Table of Contents</h3>
+          {{ .TableOfContents }} -->
       </aside>
       {{end}}
       {{.Content}}
