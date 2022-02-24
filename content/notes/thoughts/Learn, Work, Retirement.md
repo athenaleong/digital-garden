@@ -7,7 +7,7 @@ tags:
 
 Society has this notion that jobs/careers are life-long. For example, If one wants to be a mechanical engineer, they will spend a chunk of time in their early life learning to be a mechanical engineer. Then, they will spend the rest of their life practicing their craft until retirement. 
 
-![Traditional life timeline](/images/traditional-life-timeline.jpeg)
+![Traditional life timeline](content/images/traditional-life-timeline.jpeg)
 
 This model may have worked 60 years ago, probably due to a mixed bag of reasons such as lack of resources, need for specialization, lower expectations for human fulfillment 🐰 . but this model doesn't seem to be ideal for our society now. 
 
