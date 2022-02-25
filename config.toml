@@ -1,4 +1,4 @@
-baseURL = "https://athenaleong.github.io/digital-garden/"
+baseURL = "https://garden.athenaleong.com/"
 languageCode = "en-us"
 googleAnalytics = "G-T79YGXT93J"
 pygmentsUseClasses = true
