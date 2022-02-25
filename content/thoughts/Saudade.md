@@ -1,6 +1,8 @@
 ---
 title: "Saudade"
 date: 02-19-2022
+tags:
+- emotion
 ---
 
 Finally found a word to embody the complexity of emotions I feel when I have to separate from a person / place / project. 
