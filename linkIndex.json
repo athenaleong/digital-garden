@@ -4,41 +4,17 @@
       "/": [
         {
           "source": "/",
-          "target": "/tags/education",
-          "text": "Education"
-        },
-        {
-          "source": "/",
-          "target": "/tags/setup",
-          "text": "Setup"
-        },
-        {
-          "source": "/",
-          "target": "/tags/human-potential",
-          "text": "Human-Potential"
+          "target": "/thoughts",
+          "text": "Thoughts"
         }
       ]
     },
     "backlinks": {
-      "/tags/education": [
+      "/thoughts": [
         {
           "source": "/",
-          "target": "/tags/education",
-          "text": "Education"
-        }
-      ],
-      "/tags/human-potential": [
-        {
-          "source": "/",
-          "target": "/tags/human-potential",
-          "text": "Human-Potential"
-        }
-      ],
-      "/tags/setup": [
-        {
-          "source": "/",
-          "target": "/tags/setup",
-          "text": "Setup"
+          "target": "/thoughts",
+          "text": "Thoughts"
         }
       ]
     }
@@ -46,18 +22,8 @@
   "links": [
     {
       "source": "/",
-      "target": "/tags/education",
-      "text": "Education"
-    },
-    {
-      "source": "/",
-      "target": "/tags/setup",
-      "text": "Setup"
-    },
-    {
-      "source": "/",
-      "target": "/tags/human-potential",
-      "text": "Human-Potential"
+      "target": "/thoughts",
+      "text": "Thoughts"
     }
   ]
 }

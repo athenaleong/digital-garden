@@ -1,44 +1,44 @@
 {
   "/": {
     "title": "👩🏻‍🌾 Athena's Digital Garden",
-    "content": "Hey! Welcome to my digital garden. I hope to grow my thoughts here.\n\n\n[Education](/tags/education)\n[Setup](/tags/setup)\n[Human-Potential](/tags/human-potential)",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "content": "Hey! Welcome to my digital garden. I hope to grow my thoughts here.\n\n\u003c!-- \n![Education](/tags/education)\n![Setup](/tags/setup)\n![Human-Potential](/tags/human-potential) --\u003e\n[Thoughts](/thoughts)",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/Untitled": {
     "title": "Untitled Page",
     "content": "\n",
-    "lastmodified": "2022-02-25T03:35:16.375627228Z",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/notes/education/Untitled": {
     "title": "Untitled",
     "content": "Hello",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/private/Untitled-1": {
     "title": "People",
     "content": "",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/private/private-note": {
     "title": "Private Stuff",
     "content": "This page doesn't get published!",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/templates/post": {
     "title": "Untitled Page",
     "content": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   },
   "/thoughts/Learn-Work-Retirement": {
     "title": "Learn -\u003e Work -\u003e Retirement",
-    "content": "Society has this notion that jobs/careers are life-long. For example, If one wants to be a mechanical engineer, they will spend a chunk of time in their early life learning to be a mechanical engineer. Then, they will spend the rest of their life practicing their craft until retirement. \n\n![Traditional life timeline](https://athenaleong.github.io/digital-garden/thoughts/images/traditional-life-timeline.jpeg)\n\nThis model may have worked 60 years ago, probably due to a mixed bag of reasons such as lack of resources, need for specialization, lower expectations for human fulfillment 🐰 . but this model doesn't seem to be ideal for our society now. \n\n- We have the infrastructure to support rapid sharing of knowledge. Learning resources are no longer exclusive to younger people, this means we can support multiple cycles of learning and executing. \n\n- Deciding what to do for the \"rest of your life\" in your late teen is extremely daunting, especially since our education system doesn't support independent decision-making. I know many people who gave up their interest for traditionally sought-after careers because they are afraid of making a lifelong commitment to something that doesn't guarantee stability. \n\n- The problem faced by our society is multi-faceted. We need individuals that are well-informed in many areas. We also need individuals who are great at learning, the best way to guarantee this is to make learning a habit. \n\n- This model kills innovation/ human agency. People get too comfortable when they think their career is meant to be lifelong. \n\nPerhaps a new model of life should be this? Ie. may iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. \n\n![How life should be](https://athenaleong.github.io/digital-garden/thoughts/images/how-life-should-be.jpeg)",
-    "lastmodified": "2022-02-25T03:35:16.379627229Z",
+    "content": "Society has this notion that jobs/careers are life-long. For example, If one wants to be a mechanical engineer, they will spend a chunk of time in their early life learning to be a mechanical engineer. Then, they will spend the rest of their life practicing their craft until retirement. \n\n![Traditional life timeline](/thoughts/images/traditional-life-timeline.jpeg)\n\nThis model may have worked 60 years ago, probably due to a mixed bag of reasons such as lack of resources, need for specialization, lower expectations for human fulfillment 🐰 . but this model doesn't seem to be ideal for our society now. \n\n- We have the infrastructure to support rapid sharing of knowledge. Learning resources are no longer exclusive to younger people, this means we can support multiple cycles of learning and executing. \n\n- Deciding what to do for the \"rest of your life\" in your late teen is extremely daunting, especially since our education system doesn't support independent decision-making. I know many people who gave up their interest for traditionally sought-after careers because they are afraid of making a lifelong commitment to something that doesn't guarantee stability. \n\n- The problem faced by our society is multi-faceted. We need individuals that are well-informed in many areas. We also need individuals who are great at learning, the best way to guarantee this is to make learning a habit. \n\n- This model kills innovation/ human agency. People get too comfortable when they think their career is meant to be lifelong. \n\nPerhaps a new model of life should be this? Ie. may iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. \n\n![How life should be](/thoughts/images/how-life-should-be.jpeg)",
+    "lastmodified": "2022-02-25T03:42:19.099650541Z",
     "tags": null
   }
 }
