@@ -21,4 +21,4 @@ This model may have worked 60 years ago, probably due to a mixed bag of reasons 
 
 Perhaps a new model of life should be this? Ie. may iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. 
 
-![How life should be](images/how-life-should-be.jpeg)
+![How life should be](https://athenaleong.github.io/digital-garden/thoughts/images/how-life-should-be.jpeg)
