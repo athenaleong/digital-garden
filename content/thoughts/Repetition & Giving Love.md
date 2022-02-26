@@ -15,4 +15,4 @@ This exercise reminds me of how we should give love.
 
 I used to have this misconception that love in itself is enough, but I now think that there are right and wrong ways to give love. The right way to show love should be informed by how the other party wants to receive love and not how you want to receive love. The focus should be on the other person. Showering someone with love without understanding what they appreciate may actually hurt them.
 
-On a tangential note, I think a good way to understand how one wants to receive love is by observing how one instinctively display love to others. 
+On a tangential note, I think a good way to understand how one wants to receive love is by observing how one instinctively display love to others. I hypothesized that this to be exceptionally true for younger kids. 
