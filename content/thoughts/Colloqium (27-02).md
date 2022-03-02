@@ -16,7 +16,10 @@ tags:
 
 Our confidence in false beliefs is informed by our perception of other people's stance. Kidd Lab's research shows that people were more likely to adjust their confidence in believing a  misinformation when they were informed that 8 in 10 people believe in the same belief than when they were informed that 2 in 10 people believe in the same belief. 
 
-Also, someone formulated how we derive beliefs, and ofcourse, it is yet another bayesian model. 
+I wonder how the way we present other people's stance will impact our confidence in false 
+beliefs. (ie., the difference between telling someone 8 in 10 people believe in X vs 80 in 100 people believe in X). This could inform how we design rating systems in social media. 
+
+Approaching belief formation from bayesian standpoint
 
 - Observers combine signals from different perceptual senses to arrive at unified percept
 - Learners integrate private information and social informaiton to form beliefs
