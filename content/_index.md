@@ -8,4 +8,4 @@ title: 👩🏻‍🌾 Athena's Digital Garden
 ![Human-Potential](/tags/human-potential) -->
 [Thoughts](/thoughts)
 
-Hey! Welcome to my digital garden. I hope to grow my thoughts here.
+Hey! Welcome to my digital garden. I hope to grow my thoughts [here](/thoughts).
