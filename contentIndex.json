@@ -2,61 +2,67 @@
   "/": {
     "title": "👩🏻‍🌾 Athena's Digital Garden",
     "content": "\u003c!-- \n![Education](/tags/education)\n![Setup](/tags/setup)\n![Human-Potential](/tags/human-potential) --\u003e\n[Thoughts](/thoughts)\n\nHey! Welcome to my digital garden. I hope to grow my thoughts here.",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/Untitled": {
     "title": "Untitled Page",
     "content": "\n",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/notes/education/Untitled": {
     "title": "Untitled",
     "content": "Hello",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/private/Untitled-1": {
     "title": "People",
     "content": "",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/private/private-note": {
     "title": "Private Stuff",
     "content": "This page doesn't get published!",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/templates/post": {
     "title": "Untitled Page",
     "content": "---\ntitle: \"{{title}}\"\ndate: {{date}}\n---\n",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
+    "tags": null
+  },
+  "/thoughts/Colloqium-27-02": {
+    "title": "Colloqium (27-02)",
+    "content": "#### Spatial Context \n Animals, including humans, traditionally have a harder time disitinguishing between left-right than up-down or front-back. \n\n2 Hypthoesise that could explain this:\n-  It's adventageous for survival that we don't distinguish left-right. For example, we should be able to identify a predator wether we see its left view or its right view. The same doesn't apply for up-down since our height is fixed and we usually observe a predator at the same vertical angle. --\u003e I wonder if sea animals / birds are also more left-right agnostic than top-down agnostic, since they are able to traverse a 3D space and observe anything from all angles. \n- The left and right side of human body is symmetrical. Hence, we don't have a good mental model to distinguish between left and right. Ben hypothesize that ambidexterity could be correlated to how left-right agnostic we are. --\u003e I wonder why we are left-right symmetric and not top-down symmetric. Is there biological reasoning behind this? \n\n#### False Beliefs \n\nOur confidence in false beliefs is informed by our perception of other people's stance. Kidd Lab's research shows that people were more likely to adjust their confidence in believing a  misinformation when they were informed that 8 in 10 people believe in the same belief than when they were informed that 2 in 10 people believe in the same belief. \n\nI wonder how the way we present other people's stance will impact our confidence in false \nbeliefs. (ie., the difference between telling someone 8 in 10 people believe in X vs 80 in 100 people believe in X). This could inform how we design rating systems in social media. \n\nApproaching belief formation from bayesian standpoint\n\n- Observers combine signals from different perceptual senses to arrive at unified percept\n- Learners integrate private information and social informaiton to form beliefs\n\n![Bayesian Cue Integration Framework](https://d3i71xaburhd42.cloudfront.net/ccf8df0bb60ec3f98d9dbfff98be4cf32548299b/7-Figure2-1.png)",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/thoughts/Learn-Work-Retirement": {
     "title": "Learn -\u003e Work -\u003e Retirement",
     "content": "Society has this notion that jobs/careers are life-long. For example, If one wants to be a mechanical engineer, they will spend a chunk of time in their early life learning to be a mechanical engineer. Then, they will spend the rest of their life practicing their craft until retirement. \n\n![Traditional life timeline](/thoughts/images/traditional-life-timeline.jpeg)\n\nThis model may have worked 60 years ago, probably due to a mixed bag of reasons such as lack of resources, need for specialization, lower expectations for human fulfillment 🐰 . but this model doesn't seem to be ideal for our society now. \n\n- We have the infrastructure to support rapid sharing of knowledge. Learning resources are no longer exclusive to younger people, this means we can support multiple cycles of learning and executing. \n\n- Deciding what to do for the \"rest of your life\" in your late teen is extremely daunting, especially since our education system doesn't support independent decision-making. I know many people who gave up their interest for traditionally sought-after careers because they are afraid of making a lifelong commitment to something that doesn't guarantee stability. \n\n- The problem faced by our society is multi-faceted. We need individuals that are well-informed in many areas. We also need individuals who are great at learning, the best way to guarantee this is to make learning a habit. \n\n- This model kills innovation/ human agency. People get too comfortable when they think their career is meant to be lifelong. \n\nPerhaps a new model of life should be this? Ie. may iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. \n\n![How life should be](/thoughts/images/how-life-should-be.jpeg)",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/thoughts/Repetition-Giving-Love": {
     "title": "Repetition \u0026 Giving Love",
     "content": "I did an exercise called repetition in theater class today. \n\nThe instruction was simple: find a buddy, come up with a random sentence, and take turn repeating the same sentence to each other in different ways for 5 mintue.\n\nEven though the instruciton was straightforward, the exercise itself felt impossible. During my initial attempt, my buddy and I exhausted every possible way one could say \"You are really funny\" in just about a minute.\n\nThe trick to this exercise involves being more intentional about your buddy's emotion and less intentional about the ways one could say the same sentence. Once my focus shifted from 'How can I vary my intonation' to  'What is my buddy trying to convery to me', it became really natural to respond back and we managed to come up with a whole storyline. \n\nThis exercise reminds me of how we should give love. \n\nI used to have this misconception that love in itself is enough, but I now think that there are right and wrong ways to give love. The right way to show love should be informed by how the other party wants to receive love and not how you want to receive love. The focus should be on the other person. Showering someone with love without understanding what they appreciate may actually hurt them.\n\nOn a tangential note, I think a good way to understand how one wants to receive love is by observing how one instinctively display love to others. I hypothesized that this to be exceptionally true for younger kids.",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/thoughts/Saudade": {
     "title": "Saudade",
     "content": "Finally found a word to embody the complexity of emotions I feel when I have to separate from a person / place / project. \n \n \u003e **Saudade** is a deep emotional state of nostalgic or profound longing for something or someone that one cares for and/or loves. Moreover, it often carries a repressed knowledge that the object of longing might never be had again. It is the recollection of feelings, experiences, places, or events that once brought excitement, pleasure, and well-being, which now trigger the senses and make one experience the pain of separation from those joyous sensations. Saudade describes a feeling both happy and sad.",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   },
   "/thoughts/Self-Compassion": {
     "title": "Self-Compassion",
-    "content": "[Self-Compassion](https://en.wikipedia.org/wiki/Self-compassion) : extending compassion to one's self in instances of perceived inadequacy, failure, or general suffering.\n\nThree components of self-compassion:\n\n1. Self-kindness:  being warm and understanding toward ourselves, withholding judgement of ourselves\n2. Common Humanity: recognizing that suffering and personal inadequacy is part of the shared human experience\n3. Mindfulness: mental clarity regarding emotion and mental state\n\n\n\nA few swirling thoughts:\n\n- Too much empathy is detrimental to one's wellbeing. I have an inkling that self-compassion could be the answer to hyperempathy \u0026 caregiver fatigue. \n- How does self-compassion develop? If the intuition that sympathy --\u003e empathy --\u003e compassion is true. When and where does self-compassion come in?",
-    "lastmodified": "2022-02-28T21:30:29.340916005Z",
+    "content": "[Self-Compassion](https://en.wikipedia.org/wiki/Self-compassion) : extending compassion to one's self in instances of perceived inadequacy, failure, or general suffering.\n\nThree components of self-compassion:\n\n1. Self-kindness:  being warm and understanding toward ourselves, withholding judgement of ourselves\n2. Common Humanity: recognizing that suffering and personal inadequacy is part of the shared human experience\n3. Mindfulness: mental clarity regarding emotion and mental state\n\nA few swirling thoughts:\n\n- Too much empathy is detrimental to one's wellbeing. I have an inkling that self-compassion could be the answer to hyperempathy \u0026 caregiver fatigue. \n- How does self-compassion develop? If the intuition that sympathy --\u003e empathy --\u003e compassion is true. When and where does self-compassion come in? \n- The society often talks about 'self-care', but we rarely mention 'self-compassion'. It seems to me that the difference lies in doing vs thinking. Self-compassion should be the foundation of self-care. If we act compassionately to ourselves without internalizing the thought, then the effect will only be temporary.",
+    "lastmodified": "2022-03-02T07:31:39.463637039Z",
     "tags": null
   }
 }
