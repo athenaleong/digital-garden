@@ -3,6 +3,7 @@ title: "Self-Compassion"
 date: 2022-02-28
 tags: 
 - personal
+- self-compassion
 ---
 
 [Self-Compassion](https://en.wikipedia.org/wiki/Self-compassion) : extending compassion to one's self in instances of perceived inadequacy, failure, or general suffering.

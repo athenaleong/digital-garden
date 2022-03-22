@@ -6,6 +6,11 @@
           "source": "/",
           "target": "/thoughts",
           "text": "Thoughts"
+        },
+        {
+          "source": "/",
+          "target": "/thoughts",
+          "text": "here"
         }
       ]
     },
@@ -15,6 +20,11 @@
           "source": "/",
           "target": "/thoughts",
           "text": "Thoughts"
+        },
+        {
+          "source": "/",
+          "target": "/thoughts",
+          "text": "here"
         }
       ]
     }
@@ -24,6 +34,11 @@
       "source": "/",
       "target": "/thoughts",
       "text": "Thoughts"
+    },
+    {
+      "source": "/",
+      "target": "/thoughts",
+      "text": "here"
     }
   ]
 }

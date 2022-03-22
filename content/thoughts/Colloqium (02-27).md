@@ -1,5 +1,5 @@
 ---
-title: "Colloqium (27-02)"
+title: "Colloqium (02-27)"
 date: 2022-02-27
 tags:
 - Colloqium
@@ -16,8 +16,7 @@ tags:
 
 Our confidence in false beliefs is informed by our perception of other people's stance. Kidd Lab's research shows that people were more likely to adjust their confidence in believing a  misinformation when they were informed that 8 in 10 people believe in the same belief than when they were informed that 2 in 10 people believe in the same belief. 
 
-I wonder how the way we present other people's stance will impact our confidence in false 
-beliefs. (ie., the difference between telling someone 8 in 10 people believe in X vs 80 in 100 people believe in X). This could inform how we design rating systems in social media. 
+I wonder how the way we present other people's stance will impact our confidence in false beliefs. (ie., the difference between telling someone 8 in 10 people believe in X vs 80 in 100 people believe in X). This could inform how we design rating systems in social media. 
 
 Approaching belief formation from bayesian standpoint
 
