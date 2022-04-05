@@ -1,7 +1,9 @@
 ---
-title: "Is external reward useful?"
-date: 2021-04-04
+title: "Is External Reward Useful?"
+date: 2022-02-19
 ---
+
+Note from 2021: 
 
 Educators often use external rewards to encourage children to do the 'right' thing. One prominent case study I read about recently is YuanFuDao's award system. YuanFuDao is China's largest edtech company and their award system perpetuates through every segment of their online tuition center.
 
