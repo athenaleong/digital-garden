@@ -12,4 +12,4 @@ At first, it didn't sit well with me that we could mix caregiving, something tha
 That's not to say that caregiving contract is an replacement for perfect empathy! it's extremely important that we work towards being a kinder and more empathetic society. But until we have a BCI that allows us to know exactly how one is feeling (It's very debatable if that's even a good thing, rabbit hole for another time🐰), a caregiving contract is a much more realisitc and attainable goal!
 
 ---
-Thanks to my PI, Alison Gopnik, who has been a proponent of legitimizing caregiving, for sparring with me when I questioned her about this concept!
+Crediting this thought to my PI, Alison Gopnik, who has been a proponent of legitimizing caregiving, for sparring with me when I questioned her about this concept!
