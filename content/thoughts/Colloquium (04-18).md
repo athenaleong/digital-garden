@@ -1,8 +1,8 @@
 ---
-title: "Colloqium (04-18)"
+title: "Colloquium (04-18)"
 date: 2022-04-18
 tags:
-- Colloqium
+- Colloquium
 ---
 
 Colloqium today was on Adolescene in Chimpanzees and Bonoboos. The insanely fascinating talk was by biological anthropologist, (Rachna Reddy)[https://scholar.harvard.edu/rachnareddy/home]

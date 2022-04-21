@@ -1,8 +1,8 @@
 ---
-title: "Colloqium (02-27)"
+title: "Colloquium (02-27)"
 date: 2022-02-27
 tags:
-- Colloqium
+- Colloquium
 ---
 
 #### Spatial Context 
