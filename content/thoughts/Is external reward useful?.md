@@ -1,4 +1,4 @@
- ---
+---
 title: "Is External Reward Useful?"
 date: 2022-02-19
 ---
