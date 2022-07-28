@@ -1,6 +1,16 @@
 name: Athena Leong
 enableToc: true
+openToc: false
 enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description:
   A place where my thoughts live. Will they thrive or die? 
 page_title:
