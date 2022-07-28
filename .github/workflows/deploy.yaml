@@ -36,8 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-<<<<<<< HEAD
           cname: garden.athenaleong.com
-=======
-          cname: quartz.jzhao.xyz
->>>>>>> upstream/hugo
