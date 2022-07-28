@@ -1,11 +1,7 @@
 baseURL = "https://garden.athenaleong.com/"
 languageCode = "en-us"
-<<<<<<< HEAD
 googleAnalytics = "G-T79YGXT93J"
 pygmentsUseClasses = true
-=======
-googleAnalytics = "G-XYFD95KB4J"
->>>>>>> upstream/hugo
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
