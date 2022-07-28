@@ -9,12 +9,24 @@
         },
         {
           "source": "/",
+          "target": "/notes",
+          "text": "Daily Notes"
+        },
+        {
+          "source": "/",
           "target": "/thoughts",
           "text": "here"
         }
       ]
     },
     "backlinks": {
+      "/notes": [
+        {
+          "source": "/",
+          "target": "/notes",
+          "text": "Daily Notes"
+        }
+      ],
       "/thoughts": [
         {
           "source": "/",
@@ -34,6 +46,11 @@
       "source": "/",
       "target": "/thoughts",
       "text": "Thoughts"
+    },
+    {
+      "source": "/",
+      "target": "/notes",
+      "text": "Daily Notes"
     },
     {
       "source": "/",
