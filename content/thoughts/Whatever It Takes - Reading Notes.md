@@ -61,7 +61,7 @@ Research by Cognitive Neurologist, Martha Farah:
 - Children's scores on memory tests were predicted by social/emotional nurturance 
 
 According to Sociologist, Annette Lareau:
-- Middle class families follow a strategy known as _concerted cultivation_, where they plan organized activities in their children's life with the intention of aiding their development. These children are viewed as _apprentice adults_ and are encourages to _ask questions_, and _challenge current thinking_
+- Middle class families follow a strategy known as #concerted-cultivation , where they plan organized activities in their children's life with the intention of aiding their development. These children are viewed as _apprentice adults_ and are encourages to _ask questions_, and _challenge current thinking_
 - Middle class parents view their children's activities as their own responsibility and tend to get involved (though sometimes obsessively)
 - Concerted cultivated children tend to have less freedom in their everday activites, but more freedom in talking back, questioning authority and challenging rules & consequences. 
 - Working-class and poor families allow their children much more freedom in planning their own time, but are told to defer decision making to adults and treat them with respect. 
