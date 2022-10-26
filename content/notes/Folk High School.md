@@ -12,3 +12,19 @@ Teachers and students live in the same community and hang out outside of formal 
 
 ![Map](/notes/images/type-of-folk-high-schools-in-denmark.png)
 
+Visiting International People's College
+
+7.30AM - 8.00AM: Breakfast - most students were still slightly dazzy but there was a considerable amount of chatter in the dinning room. Students helped themselves to a spread of toast, jams, yogurt, milk and cereals. Breakfast wrapped up promptly at 8.00AM, and late comers had to grab a quick bite in the common area.
+
+8.30AM: Morning fellowship in the newly constructed auditorium. It starts with a few minutes of singing. It felt really warm and fuzzy when everyone sang together, and the voices got louder as the song went on. 
+
+
+
+
+
+
+Teacher was invited outside of the classroom so students can have an unbiased discussion without teacher influence. There were a show of hands on student's interests of the topic and people were unafriad to share their opinions even though when it is unpopular. There were students who were deeply passionate about the topic and those who won't so much.Those managing the dicussion were careful to consider everyone's opinon and did checks multiple times to make sure everyone was on the same page and had no concerns with the agreed upon solution. Eventually they reached compromise on a solution such that those who are passionate are able to read about them and share the outocme.
+
+Teacher Julie was then invited back in and presented with the student's compromise. With a few back and forths on how the presentation will go, the teacher happily accepted the proposal.
+
+The pace of the class was jointly determined by students and teachers. Teachers did not 

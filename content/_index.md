@@ -2,7 +2,10 @@
 title: 👩🏻‍🌾 Athena's Digital Garden 
 ---
 
-- [Thoughts](/thoughts)
-- [Daily Notes](/notes)
+Hi! Welcome to my digital garden. 🌱
 
-Hey! Welcome to my digital garden. I grow my thoughts [here](/thoughts).
+Here you can find
+- [Reading Notes](/read)
+- [Thoughts](/thoughts)
+- [Working Notes](/notes)
+

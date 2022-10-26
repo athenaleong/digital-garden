@@ -9,7 +9,7 @@ tags:
 1. Freedom of choice: People used to have kids because it was customary, economically necessary, or it was a moral obligation. Now people have a much greater say on whether they want to have kids and how they want to parent (ie. how far apart each kid should be). Children are seen as a ambitious life project. There's a lot more #ego involved. 
 2. Changing work culture: Gender roles are no longer fixed. Women are working more and men are taking up an increasing amount of household work. Families are learning to navigate this changing structure. 
 3. Changing role of families & children in society: 
-	- children are seen as future assets. "economically useless and emotinally priceless". Parent pour more capital into children. Children demand more independence, but are increasingly dependent on their parents for resources, emotional support and connections.
+	- Children are seen as future assets. "economically useless and emotinally priceless". Parent pour more capital into children. Children demand more independence, but are increasingly dependent on their parents for resources, emotional support and connections.
 	- Traditional functions of parents have changed. Parents used to provide educational, vocational, and religious instruction to their children, but this has now been outsourced to larger institutions. The sole job of parents become the financial, physical and emotional security of their children. 
 
 	
@@ -85,7 +85,7 @@ Along the same vein, pervasive busyness is also a modern concept. This led to th
 
 ---
 
-According to Anthropologist, Margaret Mead, Americans are not hidebound by traditions and rigid social structures. This is unlike the UK or China, where there is a 'sureness of folkways'. Freedom is embraced and new generations are encouraged to reinvent themselves. Parents prepare their kids to surpass them in unimaginable ways. This uncertainty leads to discontent, and thus willingness to experiment with new education products.
+According to Anthropologist, Margaret Mead, Americans are not hidebound by traditions and rigid social structures. This is unlike the UK or China, where there is a "sureness of folkways". Freedom is embraced and new generations are encouraged to reinvent themselves. Parents prepare their kids to surpass them in unimaginable ways. This uncertainty leads to discontent, and thus willingness to experiment with new education products.
 
 The lack of clarity on what's possible means we tend to fall back on vague metric like individual happiness, which cannot be sought directly. "Happiness is the by-product of other worthwhile activities". Amy Chua of Tiger Mother believes that the society should aim for excellence instead. Happiness from a job well done is the best kind of happiness. It leads to lasting esteem.
 
@@ -99,6 +99,6 @@ Children enjoy #video-games because they provide opportunities for #flow. It pro
 
 Adolescents make poor judgement not because of their ability to estimate risk. They actually overestimate risk when it comes to situation involving their own morality. They make poor judgement because they assign a greater value to the reward they will get from taking that risks that adults do. (B.  J. Casey)
 
-Older childreen tend to act out, becasue our culture gives them too few chances to take constructive, and tangibly relevant risks (ie. rigid examination system, school rules). Creating outlets for older children to express themselves and experiment is extremely important (Hack club is a great example).
+Older childreen tend to act out, becasue our culture gives them too few chances to take constructive, and tangibly relevant risks (ie. rigid examination system, school rules). Creating outlets for older children to express themselves and experiment is extremely important.
 
 ---

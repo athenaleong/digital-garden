@@ -9,4 +9,7 @@ elements of effective instructional scaffolding:
 - anticipation of errors
 - application of scaffolds during learning task. scaffolds may be dynamic and generative.
 - consideration of emotional responses: support is not just limited to cognitive skills, but also emotional responses ( #affect )
-- 
+
+
+
+
