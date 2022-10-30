@@ -1,3 +1,17 @@
+flexible assessment 
+
+other factors to look into:
+- pyschology of testing - how does presence of test affects motivation
+- time pressure in examination
+- student's perception of testing 
+- how does standardized testing affect instruction focus 
+
+interesting visualizations:
+- map of frequency of test 
+- index of importance of test on future outcome 
+
+---
+
 Student tend to 'cram' for exams. This is great for short-term memory retrieval, but bad for long term knowledge retention. Related [Spaced Practice](notes/Spaced%20Practice.md)
 
 Traditional school structure not ideal for long term memory retention
@@ -16,8 +30,40 @@ For example, research by Weinstein, Gilmore, Szpunar, and McDermott ([2014](http
 
 
 
+---
 
 Reading list:
  [Test-potentiated learning: Distinguishing between direct and indirect effects of tests](https://psycnet.apa.org/record/2012-18091-001)
  
+---
+
+
+
+---
+
+Testing as a signal of importance admist competing priorities (Retrieval-induced forgetting,
+
+---
+Limitation of current research on testing:
+- Studies are often done with simple laboratory materials (word or paired associate lists) which differs from actual content
+- Studies are done in the time frame of weeks, which may not be reflective of long term knowledge retention / application
+- does not account for [Transfer Approriate Processing](notes/Learning%20theory.md#Transfer%20Approriate%20Processing)
+
+
+Format of LAS discourages testing to be seen as a learning resource:
+- no feedback given
+- seen as a gatekeeper, a means to an end- no revision needed 
+- encourages crammping 
+
+students don't quite see testing as a study resource 
+
+So should we regularly schedule mid-stake / low-stake examination?
+
+Just how reflective / effective is test score on our ability 
+
+---
+
+Should kids even be evaluated?
+
+### [There are better ways to assess students than with high-stakes standardized tests. These schools are using them with success](https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_gale_businessinsightsgauss_A533228499&context=PC&vid=01UCS_BER:UCB&lang=en&search_scope=DN_and_CI&adaptor=Primo%20Central&tab=Default_UCLibrarySearch&query=any%2Ccontains%2CRelying%20on%20high-stakes%20standardized%20tests%20to%20evaluate%20schools%20and%20teachers%3A%20A%20bad%20idea&offset=0)
 
