@@ -23,7 +23,7 @@ Visiting International People's College
 
 
 
-Teacher was invited outside of the classroom so students can have an unbiased discussion without teacher influence. There were a show of hands on student's interests of the topic and people were unafriad to share their opinions even though when it is unpopular. There were students who were deeply passionate about the topic and those who won't so much.Those managing the dicussion were careful to consider everyone's opinon and did checks multiple times to make sure everyone was on the same page and had no concerns with the agreed upon solution. Eventually they reached compromise on a solution such that those who are passionate are able to read about them and share the outocme.
+Teacher was invited outside of the classroom so students can have an unbiased discussion without teacher influence. There were a show of hands on student's interests of the topic and people were unafriad to share their opinions even though when it is unpopular. There were students who were deeply passionate about the topic and those who won't so much.Those managing the dicussion were careful to consider everyone's opinion and did checks multiple times to make sure everyone was on the same page and had no concerns with the agreed-upon solution. Eventually, they reached compromise on a solution such that those who are passionate are able to read about them and share the outcome.
 
 Teacher Julie was then invited back in and presented with the student's compromise. With a few back and forths on how the presentation will go, the teacher happily accepted the proposal.
 

@@ -1,10 +1,14 @@
 ---
 title: "constructivism"
 date: 2022-08-21
+tags:
+- Piaget
+- Bruner
 ---
 
-### Scaffolding 
+Not to be confused with #constructionism
 
+### Scaffolding 
 elements of effective instructional scaffolding: 
 - The selection of learning task: Learning desk needs to be engaging and interesting and within the #zone-of-promiximal-development
 - anticipation of errors

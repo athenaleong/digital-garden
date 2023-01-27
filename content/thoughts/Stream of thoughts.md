@@ -1,8 +1,7 @@
 ---
-title: "Stream"
+title: "Stream of thoughts"
 date: 2022-08-15
 ---
-
 
 Young children do not have the mental model to understand affordance of a toy. Hence products for kids are almost never used the way they are intended to be used. Toys should be designed to be all enabling, and provide multiple level of abstraction for kids with varying abilities. 
 
@@ -31,7 +30,7 @@ We are adversed to failure, boredom and messes. It becomes seocnd nature for us 
 
 ---
 
-It seems difficult to introduce interactive machine assisted learning to young children (2-3), because they have yet to develope a standardized method for communication (communication comes hand in hand with emotion identification and regulation). If any tech is introduced, it will most likely be some form of SaS that interface with the teachers. Examples could be streamlining logistics and creating personalized learning plans.
+It seems difficult to introduce interactive machine assisted learning to young children (2-3), because they have yet to develope a standardized method for communication (communication comes hand in hand with emotion identification and regulation). Tech used in kindergartens mostly interface with the teachers. Examples are SaaS streamlining logistics and creating personalized learning plans.
 
 Early educators are special because their knowledge is very specific to what they practice. This is unlike someone who studies say Physics, who can then become an engineer, a researcher or a physics teacher.
 
@@ -59,6 +58,6 @@ I wonder how "work" and "life" should interact. Right now, there's common consen
 
 --- 
 
-The working of our education system is like a gear box. Components of our education system are designed to complement one another. Standards shapes the format of examinations, which shapes our curiculum, which in turns shape how classes are taught... You can't just switch out a gear with a different one and expect the gear box to still function. Changes in our education system can't happen in siloed. 
+The working of our education system is like a gear box. Components of our education system are designed to complement one another. Standards shapes the format of examinations, which shapes our curiculum, which in turns shape how classes are taught... If you remove a gear, the whole system breaks. You can't just switch out a gear and expect the gear box to function differently. Changes in our education system can't happen in siloed. 
 
 ---

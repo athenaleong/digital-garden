@@ -19,6 +19,6 @@ This model may have worked 60 years ago, probably due to a mixed bag of reasons 
 
 - This model kills innovation/ human agency. People get too comfortable when they think their career is meant to be lifelong. 
 
-Perhaps a new model of life should be this? Ie. may iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. 
+Perhaps a new model of life should be this? Ie. many iterations of learning and executing, with the concept of retirement (taking a break/ relaxation/ do nothing and take in the beauty of life) being something that can take place any time in our life. 
 
 ![How life should be](/thoughts/images/how-life-should-be.jpeg)

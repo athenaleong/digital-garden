@@ -9,7 +9,7 @@ tags:
 1. Freedom of choice: People used to have kids because it was customary, economically necessary, or it was a moral obligation. Now people have a much greater say on whether they want to have kids and how they want to parent (ie. how far apart each kid should be). Children are seen as a ambitious life project. There's a lot more #ego involved. 
 2. Changing work culture: Gender roles are no longer fixed. Women are working more and men are taking up an increasing amount of household work. Families are learning to navigate this changing structure. 
 3. Changing role of families & children in society: 
-	- Children are seen as future assets. "economically useless and emotinally priceless". Parent pour more capital into children. Children demand more independence, but are increasingly dependent on their parents for resources, emotional support and connections.
+	- Children are seen as future assets. "economically useless and emotionally priceless". Parent pour more capital into children. Children demand more independence, but are increasingly dependent on their parents for resources, emotional support and connections.
 	- Traditional functions of parents have changed. Parents used to provide educational, vocational, and religious instruction to their children, but this has now been outsourced to larger institutions. The sole job of parents become the financial, physical and emotional security of their children. 
 
 	
@@ -17,7 +17,7 @@ tags:
 
 ##### Early Childhood:
 - Children have drastic effect on sleep. The effect of sleep deprivation is supposedly greatly determined by genetics. Some people respond to sleep deprivation catastrophically.
-- Having children is a test of our willpower. Self-control is a bottomless resource. The more willpower we expand in one area (ie. parenting and sleep), the more likely we will yield to the next temptations that come along (ie. yelling at our kids). Succumbing to our own temptation is no fun. 
+- Having children is a test of our willpower. Self-control is not a bottomless resource. The more willpower we expand in one area (ie. parenting and sleep), the more likely we will yield to the next temptations that come along (ie. yelling at our kids). Succumbing to our own temptation is no fun. 
 - Children are madman: their chaos challenge the organization adults have established. Psychologically healthy kindergarteners from high-income homes listen to their mothers 55% of the time, low-income homes 68%
 - Gain in freedom is a seen as a triumph of subtraction rather than addition (ie. getting rid of stuff, instead of taking up stuff of our choice). Independence came to mean immunity from social claims on one's wealth or time. We fear commitment and we perceive liberty as freedom from obligation. Children are the most binding obligations. 
 - Reality vs Expectations of having children: Couples usually view children as matrimonial enhancers, but in fact, couples with young children are more prone to divorce. 

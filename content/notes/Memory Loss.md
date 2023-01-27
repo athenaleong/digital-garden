@@ -9,5 +9,6 @@ _Source_: [Forgetting as a form of adaptive engram cell plasticity](https://www.
 
 Based on theory that memories are stored in ensembles of neurons ('engram  cells') and success fo recall involves reactivation of these ensembles. 
 
-Forgetting involves circult remodelling that switches engram cells from an accessible state to an inaccessible state. Forgetting is a form of neuroplasticity that alters engram cell accessibility in a manner that is sensitive to mismatch between expectations and the environment. 
+Forgetting involves circuit remodelling that switches engram cells from an accessible state to an inaccessible state. Forgetting is a form of neuroplasticity that alters engram cell accessibility in a manner that is sensitive to the mismatch between expectations and the environment. 
 
+[Transfer Approriate Processing](notes/Learning%20theory.md#Transfer%20Approriate%20Processing)

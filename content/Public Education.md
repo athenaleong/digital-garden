@@ -1,0 +1,1 @@
+Assimilation blindness: Mechanism of mental closure to foreign ideas 

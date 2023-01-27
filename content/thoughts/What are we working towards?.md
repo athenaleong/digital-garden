@@ -3,7 +3,10 @@ title: "What are we working towards?"
 date: 2022-09-15
 ---
 
-I hope to live in a world where everyone posseses these important traits and knowledge. I am trying to design better systems for learning and this list serves as anchoring points for my research and proposals.
+It's easy to lose track of the bigger picture when I am nose-deep in literature. 
+It's easy to lose hope when the thing I am trying to understand just seems so complex, confusing and burdened with inertia. I came out with the list to give myself clarity, to remind myself of what I am trying to work towards.
+
+ I hope to live in a world where everyone posseses these important traits and knowledge. 
 
 **Traits:**
 - Curious & thoughtful: an open-minded person who think for themselves and can confidently ask questions, question answers and understand the world around them

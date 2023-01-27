@@ -1,0 +1,2 @@
+- Industrial style: information transfer, teaching students to follow instructions and master routine 
+- 
