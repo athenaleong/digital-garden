@@ -1,3 +1,7 @@
+---
+title: "Teacher's Tools for Designing Creative Learning Experiences"
+date: 2023-01-22
+---
 Notes and thoughts on "Tools that Lower the Floors, Widen the Walls, and Raise the Ceilings for Designing Creative Learning Experiences" (Thesis by Yusuf Ahmad)
 
 ---
@@ -8,9 +12,8 @@ Traditional lesson plans takes the form of a material supply list and a script f
 #### Design Principles:
 - Tinkerable
 	- Offer low-stake drafting of ideas. 
-	- Limited set of LEGO bricks (ie. Trello) is too rigid for free expression of ideas. (#low-ceiling)
-	- Too many features / too much lego bricks (ie. AdobeXD) makes it high friction to pick up and too complicated to use. (#high-floor)
-	- 
+	- Limited set of LEGO bricks (ie. Trello) is too rigid for free expression of ideas. ( #low-ceiling)
+	- Too many features / too much lego bricks (ie. AdobeXD) makes it high friction to pick up and too complicated to use. ( #high-floor)
 - Personal
 - Collaborative
 	- Ability to sense other's presence (ie. cursor)
@@ -19,7 +22,7 @@ Traditional lesson plans takes the form of a material supply list and a script f
 - Limiting formating may be a generative constraints that encourage candidates to focus on substance over form.
 - Current digital planning tools for teachers feel high stake, with high emphasis on form. Teachers actually find it more "free", and easier to "
   mess around with ideas" when working with analog tools.
-- Teacher as a "designer" which curates / creates educational; experiences rather than a deliverer of information. (Similar to [Reggio Emilia](Reggio%20Emilia.md)]) 
+- Teacher as a "designer" which curates / creates educational; experiences rather than a deliverer of information. (Similar to [Reggio Emilia](notes/Reggio%20Emilia.md)]) 
 - 
 
 #### Questions: 
