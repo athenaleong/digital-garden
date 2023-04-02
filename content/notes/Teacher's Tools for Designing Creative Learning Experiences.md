@@ -1,6 +1,10 @@
 ---
 title: "Teacher's Tools for Designing Creative Learning Experiences"
 date: 2023-01-22
+tags: 
+- teachers
+- tools
+- paper
 ---
 Notes and thoughts on "Tools that Lower the Floors, Widen the Walls, and Raise the Ceilings for Designing Creative Learning Experiences" (Thesis by Yusuf Ahmad)
 

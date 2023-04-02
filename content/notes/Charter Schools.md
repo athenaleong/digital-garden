@@ -24,9 +24,6 @@ Quick overviews:
 [Profits and Questions at Online Charter School](https://www.nytimes.com/2011/12/13/education/online-schools-score-better-on-wall-street-than-in-classrooms.html)
 [Vox](https://www.vox.com/2014/4/30/18076968/charter-schools)
 
-What was 
-School vouncher 
-
 How was it suppose to work?
 - offer school choice
 - NYC: "special emphasis on expanded learning experiences for students who are at-risk of academic failure"

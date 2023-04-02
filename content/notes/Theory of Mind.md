@@ -10,11 +10,11 @@ Experiments to establish theory of mind:
 - Second-order false belief task: Sally-Ann Task
 - For younger children: preferential looking paradigm
 
-Five aspects of ToM that developes sequentually:
+Five aspects of ToM that develop sequentially:
 - diverse desires
 - diverse beliefs
 - knowledge access (seeing leads to knowing)
 - false beliefs 
 - hidden emotions (belief differs from action)
 
-Children in Iran & China developes knowledge access before diverse desires due to culture of collectivism 
+Children in Iran & China develop knowledge access before diverse desires due to culture of collectivism 
