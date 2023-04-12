@@ -17,7 +17,7 @@ So you have probably seen these things around your house. They are called router
  
 So iPad and router talk.
 
-But instead of speaking words through sound waves like how humans communciate. They send 1s and 0s through radiowaves.
+No they dont speak like humans do. They send 1s and 0s through radiowaves.
 
 There's no physical wires connecting your phone to the router. Instead it connects over "wifi" which stands for wireless fidelity. 
 
